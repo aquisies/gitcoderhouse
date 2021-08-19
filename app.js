@@ -1,4 +1,4 @@
-console.log("Soy app - pero estoy en dev")
+console.log("Soy app - main")
 
 function suma(a, b){
     return a+b;

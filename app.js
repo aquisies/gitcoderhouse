@@ -1,4 +1,4 @@
-console.log("Soy app")
+console.log("Soy app - main")
 
 function suma(a, b){
     return a+b;
